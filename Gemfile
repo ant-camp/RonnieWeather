@@ -8,6 +8,8 @@ gem 'rails', '4.1.1'
 gem 'pg'
 gem 'rails_12factor', group: :production
 
+gem "simple_calendar", "~> 2.0"
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -31,3 +33,4 @@ gem 'spring',        group: :development
 
 
 gem 'bootstrap-sass'
+gem "font-awesome-rails"
